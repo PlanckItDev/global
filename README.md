@@ -1,7 +1,5 @@
-Homepage
-Big, emotional mission statement:
 
-“Let the people decide — not the politicians, not the armies.”
+# “Let the people decide — not the politicians, not the armies.”
 
 Real-time stats:
 
